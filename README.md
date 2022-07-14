@@ -1,4 +1,4 @@
-# Hospital-appointment-no-show-dataset-cleaning-and-visualisation
+# Hospital-appointment-no-show-dataset-cleaning-and-visualization
 
 Background to the study: In this work, I am analysing a dataset that holds information from 100k medical appointments in Brazil with a focus on the question of whether or not patients show up for their appointment.
 
